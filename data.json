@@ -1,0 +1,19 @@
+
+    {
+        "students": [
+            {
+                "id": 1,
+                "name": "John",
+                "age": 30,
+                "city": "New York",
+                "full-time": true
+            },
+            {
+                "id": 2,
+                "name": "Jane",
+                "age": 25,
+                "city": "Los Angeles",
+                "full-time": false
+            }
+        ]
+    }
